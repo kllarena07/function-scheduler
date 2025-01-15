@@ -13,5 +13,6 @@
     "@aws-sdk/client-lambda": "^3.726.1",
     "@aws-sdk/client-scheduler": "^3.726.1",
     "dotenv": "^16.4.7"
-  }
+  },
+  "type": "module"
 }
