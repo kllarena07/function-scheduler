@@ -15,5 +15,8 @@
     "@aws-sdk/client-scheduler": "^3.726.1",
     "dotenv": "^16.4.7"
   },
-  "type": "module"
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^22.10.6"
+  }
 }
